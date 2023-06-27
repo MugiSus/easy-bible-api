@@ -1,3 +1,5 @@
+Data brought from [@seven1m/open-bibles](https://github.com/seven1m/open-bibles/tree/master). Huge thanks to the open-bibles community!
+
 ## What is this
 This make a virtual REST API server on GitHub repository.
 By analyzing JSON files, the script makes directories and some files.
